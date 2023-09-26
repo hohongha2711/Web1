@@ -1,0 +1,185 @@
+.header{ 
+    background-color: rgb(226, 212, 18);
+}
+
+.header-top{ 
+    padding-left: 10%;
+    padding-right: 10%;
+    display: flex;
+    padding-top: 10px;
+}
+
+.search-border{ 
+    border-style: hidden;
+    height: 40px;
+}
+
+.logo-img{ 
+    height: 40px;
+}
+
+.form-search{ 
+    display: flex;
+    
+}
+
+.form-search-boder{ 
+    border-radius: 3%;
+    background-color: white;
+    margin-left: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.taikhoan{ 
+    height: fit-content;
+    width: 100px;
+    text-align: center;
+    margin-left: 40px;
+    background-color: rgb(230, 163, 75);
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: black;
+    border-radius: 3%;
+}
+
+.cart{ 
+    height: fit-content;
+    width: 120px;
+    background-color: rgb(230, 163, 75);
+    border-radius: 3%;
+    color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 40px;
+    text-decoration: none;
+    display: flex;
+}
+
+.cart-icon{ 
+    height: 30px;
+    margin-top: 5px;
+}
+
+.span-cart{ 
+    margin-left: 10px;
+    text-decoration: none;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.header-menu{ 
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 5px;
+    margin-top: 5px;
+}
+
+.menu{ 
+    display: flex;
+}
+
+.ul-menu{ 
+    display: flex;
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;    
+}
+
+.li-menu{ 
+    margin-right: 40px;    
+}
+
+.span-menu{ 
+    margin-left: 2px;
+    text-decoration: none;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.icon-menu{ 
+    width: 30px;
+    height: 30px;
+}
+.page{ 
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+footer{ 
+    border-top: 1px solid gray;
+}
+
+
+.section_footer{ 
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.footer_col{ 
+    width: 200px;
+}
+
+.list_footer{ 
+    list-style-type: none;
+    line-height: 200%;
+    margin: 0;
+    padding: 0;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.facebook-icon{ 
+    color: blue;
+    width: 40px;
+    height: 40px;
+    padding-right: 10px;
+}
+
+.youtube-icon{ 
+    color: red;
+    width: 40px;
+    height: 40px;
+    padding-right: 10px;
+}
+
+.instagram-icon{ 
+    color: rgb(58, 192, 226);
+    width: 40px;
+    height: 40px;
+    padding-right: 10px;
+}
+
+.social-icon{ 
+    display: flex;
+}
+
+.copyright{ 
+    padding-left: 10%;
+    padding-right: 10%;
+    background-color: gainsboro;
+    text-align: center;
+}
+
+.content{ 
+    padding-left: 10%;
+    padding-right: 10%;
+}
